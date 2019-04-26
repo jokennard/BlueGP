@@ -1,0 +1,35 @@
+
+body {
+	background-image: linear-gradient(to bottom right, #9aedd7, #ffd3e9);
+	/* background-color:  #9aedd7; */
+}
+
+.logTabel {
+/*font-family: 'PT Mono', monospace;*/
+  padding: 15px 15px 15px 15px;
+  text-align: left;
+  border-bottom: 0px solid #E1E1E1;
+}
+
+.sometable th, td{
+    border: 5px solid white;
+}
+
+p{
+	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+table {
+ border-collapse: collapse;
+ border: none;
+}
+
+.tdKolom {
+	width: 100px;
+	word-wrap: break-word;
+	font-size: 25px;
+}
+#pagination a{
+	padding-left: 20px;
+	text-decoration: underline;
+}
